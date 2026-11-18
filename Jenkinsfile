@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello! Jenkins GitHub Webhook is working.'
+                echo 'My first automatic Jenkins build!'
             }
         }
 
