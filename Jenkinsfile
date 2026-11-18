@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'My first automatic Jenkins build!'
+                echo 'My first automatic !'
             }
         }
 
